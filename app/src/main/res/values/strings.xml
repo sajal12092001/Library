@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="add_student">Add Student</string>
+    <string name="return_book">Student Return Book</string>
+    <string name="issue_book_details">Issue Book Details</string>
+    <string name="return_book_details">Student Return Book Details</string>
+    <string name="library">Library</string>
+    <string name="add_book">Books</string>
+    <string name="add">Add</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_publications">Book Publications</string>
+    <string name="book_id">Book Id</string>
+    <string name="book_price">Book Price</string>
+    <string name="book_details">Book Details</string>
+    <string name="book_pages">Book Pages</string>
+    <string name="student_name">Student Name</string>
+    <string name="father_s_name">Father\'s Name:</string>
+    <string name="cource_name">Cource name</string>
+    <string name="student_course">Student Course</string>
+    <string name="student_course_year">Student Course Year</string>
+    <string name="search">Search</string>
+    <string name="_0">0</string>
+    <string name="author">AUTHOR:</string>
+    <string name="author_name">Author Name</string>
+    <string name="publication">PUBLICATION:</string>
+    <string name="publication_name">Publication Name</string>
+    <string name="_1000">1000</string>
+    <string name="pages">PAGES</string>
+    <string name="rs">Rs.</string>
+    <string name="_500">500</string>
+    <string name="phone">Phone:</string>
+    <string name="search_book_id">Search Book Id</string>
+    <string name="issue_book">Student Issue Book</string>
+    <string name="course">Course:</string>
+    <string name="year">Year:</string>
+    <string name="an">An</string>
+    <string name="issue">Issue</string>
+    <string name="issue_date">Issue Date</string>
+    <string name="_12_09_2001">12/09/2001</string>
+    <string name="iii_year">III year</string>
+    <string name="bca">BCA</string>
+    <string name="missing">Missing</string>
+    <string name="return_date">Return Date</string>
+    <string name="fine">Fine:</string>
+    <string name="missing_book_details">Missing Book</string>
+    <string name="details">Details</string>
+
+
+    <string-array name="cources">
+        <item>-Select Cource-</item>
+        <item>BA</item>
+        <item>BBA</item>
+        <item>BCA</item>
+        <item>BCOM</item>
+        <item>BED</item>
+        <item>BSC</item>
+        <item>MA</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>-Select Year-</item>
+        <item>I year</item>
+        <item>II year</item>
+        <item>III Year</item>
+        <item>I year-I sem</item>
+        <item>I year-II sem</item>
+        <item>II year-III sem</item>
+        <item>II year-IV sem</item>
+        <item>III year-V sem</item>
+        <item>III year-VI sem</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teacher_issue_book">Teacher Issue Book</string>
+    <string name="teacher_return_book">Teacher Return Book</string>
+    <string name="teacher_s_issue_book">Teacher\'s Issue Book</string>
+    <string name="teacher_s_name">Teacher\'s Name</string>
+    <string name="teacher_s_return_book_details">Teacher\'s Return Book Details</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+</resources>
